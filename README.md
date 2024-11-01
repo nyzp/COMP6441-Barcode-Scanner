@@ -26,7 +26,19 @@ If the ID passes all three checks, it is considered a valid ID. The program also
 * termcolor
 * (that is a lot of libraries, I'm sorry)
 
-### Executing program
+### Add Entry to Database
+If you would like to add your own ID to receive the "Legitimate ID" result, please find the database at the top of scanner.py and key in your information in the following format:
+
+    "Your UNSW ID card Number Here": {
+        "name": "Your Name Here",
+        "age": "Your Age Here",
+        "zid": "Your zID Here",
+        "photo": "photos/your_photo_name.jpg"
+    }
+
+Please save a picture of your card's Photo ID in the "Photos" folder, copy the image name and add a "photos/" to the front before pasting that entire string in the "photo" entry as above.
+
+### Executing Program
 
 * Start the program using this command:
 ```
