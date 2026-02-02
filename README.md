@@ -1,4 +1,4 @@
-# COMP6441-Barcode-Scanner
+# COMP6441-ID-Scanner
 # Mag's Something Awesome Project
 
 For my Something Awesome project, I wanted to look into ID scanners and break down how they work in terms of authentication. In addition, I wanted to learn how to spot fake IDs and see if I could build something that is able to detect them.
